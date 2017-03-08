@@ -14,11 +14,7 @@ import android.view.ViewGroup;
 public class CoursesFragment extends Fragment {
 
 
-    public interface CoursesFragmentCallbacks
-    {
-        void editCallback();
-        void addCallback();
-    }
+
 
 
 
